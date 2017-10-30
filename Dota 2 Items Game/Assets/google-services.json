@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146047426875",
+    "firebase_url": "https://d2quiz-49402185.firebaseio.com",
+    "project_id": "d2quiz-49402185",
+    "storage_bucket": "d2quiz-49402185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146047426875:android:2349c90e49ecc95a",
+        "android_client_info": {
+          "package_name": "com.sapereaude.d2quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146047426875-8okmmsle47eqt6hhtf0bevsu6tpv3i9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "146047426875-r1spmqscoqr5q69iofl2dkt1rk6regvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sapereaude.d2quiz",
+            "certificate_hash": "77d06dc954efecc2a914bd3d9f07d388e3cb4187"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqViq2A1ByJuhIleIMTV3OHgKUGF08Nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146047426875-8okmmsle47eqt6hhtf0bevsu6tpv3i9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

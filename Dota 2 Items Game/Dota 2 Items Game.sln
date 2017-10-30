@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota 2 Items Game", "Dota 2 Items Game.csproj", "{45D1F069-27B1-B462-D7D3-9A8CBB9E2A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota 2 Items Game.Editor", "Dota 2 Items Game.Editor.csproj", "{D43A470F-BCD1-3F8D-0AC1-518200EB9127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D1F069-27B1-B462-D7D3-9A8CBB9E2A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D1F069-27B1-B462-D7D3-9A8CBB9E2A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D1F069-27B1-B462-D7D3-9A8CBB9E2A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D1F069-27B1-B462-D7D3-9A8CBB9E2A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43A470F-BCD1-3F8D-0AC1-518200EB9127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43A470F-BCD1-3F8D-0AC1-518200EB9127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43A470F-BCD1-3F8D-0AC1-518200EB9127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43A470F-BCD1-3F8D-0AC1-518200EB9127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

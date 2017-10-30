@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://d2quiz-49402185.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">146047426875</string>
+  <string name="google_storage_bucket" translatable="false">d2quiz-49402185.appspot.com</string>
+  <string name="project_id" translatable="false">d2quiz-49402185</string>
+  <string name="google_api_key" translatable="false">AIzaSyCDqViq2A1ByJuhIleIMTV3OHgKUGF08Nw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDqViq2A1ByJuhIleIMTV3OHgKUGF08Nw</string>
+  <string name="google_app_id" translatable="false">1:146047426875:android:2349c90e49ecc95a</string>
+  <string name="default_web_client_id" translatable="false">146047426875-8okmmsle47eqt6hhtf0bevsu6tpv3i9n.apps.googleusercontent.com</string>
+</resources>
